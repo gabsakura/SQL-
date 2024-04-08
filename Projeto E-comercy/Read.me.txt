@@ -1,0 +1,2 @@
+Projeto de entrega.
+Uso do MySQL Workbench, para fazer um "mapa conceitual" de como se montar um banco de dados voltado ao E-commerce.
